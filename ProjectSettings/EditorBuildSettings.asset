@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a5419ae39c6ea024984592945b5d0045
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 1a82477853ab7a742867cb361987f604
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 20d1846b51516bb488e71e3e6bdbe233
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 2948af8ea5676bc4f997f98b89f15666
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 9b6880d40f684e64195373e032e8e540
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 839725ab8a3966348afb05d666898ad2
+  - enabled: 1
+    path: Assets/Scenes/Level 6.unity
+    guid: 22c0e5e9e4030604981127f8989fca47
+  - enabled: 1
+    path: Assets/Scenes/Level 7.unity
+    guid: 5180aa650da4dfb4ca4217c0b0528477
+  - enabled: 1
+    path: Assets/Scenes/Level 8.unity
+    guid: 1ddc866441e4e3a42a9be560eb257e2b
+  - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: b6e08dccb25c95d43b0c7cb77562ed2e
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 4f56289e43062f144967d35b41a486a5
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 292ad181010d8484baadc51f4743fc56
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
